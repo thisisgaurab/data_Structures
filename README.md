@@ -1,4 +1,4 @@
- #Data Structures in Java
+ ## Data Structures in Java
 
 This repository contains Java implementations of various data structures and algorithms. It has some of my coding practice and learning journey in the field of data structures.
 
